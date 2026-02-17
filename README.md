@@ -1,3 +1,5 @@
+ **[View the full case study (PDF)](Sales_Profitability_Case_Study_Jessica_Martinez.pdf)**
+
 # Sales & Profitability Analysis Case Study (Excel Data Cleaning + Pivot Insights)
 
 ## Overview 
@@ -5,8 +7,10 @@ This project is a simulated/class case study analyzing a company’s sales and o
 
 ## Tools / Methods
 - Microsoft Excel (data cleaning, validation, formulas)
+- PowerBI (data modeling and visulation)
 - Pivot tables & summary calculations
 - Visual analysis (charts for product, region, and customer profitability)
+  
 
 ## Process
 1. **Data quality assessment:** identified duplicate records, missing identifiers, inconsistent location fields, and unclear definitions.
