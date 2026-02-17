@@ -1,6 +1,6 @@
 # Sales & Profitability Analysis Case Study (Excel Data Cleaning + Pivot Insights)
 
-## Overview
+## Overview 
 This project is a simulated/class case study analyzing a company’s sales and operations data. The original Excel datasets contained issues (missing values, duplicates, inconsistent geographic fields, unclear identifiers), so the first step was data cleaning and validation. After preparation, I summarized profitability trends across products, regions, and customers and provided business recommendations to improve profit.
 
 ## Tools / Methods
