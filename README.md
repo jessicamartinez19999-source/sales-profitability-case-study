@@ -1,4 +1,4 @@
-**[View the full case study (PDF)](Sales_Profitability_Case_Study_Jessica_Martinez.pdf)**
+**[View the full case study (PDF)](Sales_Profitability_Analysis_Case_Study.pdf)**
 
 # Sales & Profitability Analysis Case Study (Excel Data Cleaning + Pivot Insights)
 
